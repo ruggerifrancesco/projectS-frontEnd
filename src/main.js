@@ -2,7 +2,7 @@ import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import router from './router'
 
-import '/axios' // Axios Store API Call
+import './axios.js' // Axios Store API Call
 import './style.css'
 import App from './App.vue'
 
